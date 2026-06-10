@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/b8898aad-9ebd-474a-bb14-d65388ac36dd" alt="Apex" width="200">
+  <img src="https://github.com/user-attachments/assets/4edd60da-c00a-49ae-be71-482fc72f05ac" alt="Apex" width="200">
+
 
   <br>
   Apex
@@ -12,40 +13,26 @@ A hub worth looking at.
 <div align="center">
 
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 </div>
 <p align="center">
-  <a href="#key-features">Key Features</a> •
   <a href="#pcb">PCB</a> •
   <a href="#credits">Credits</a> •
   <a href="https://cad.onshape.com/documents/b957cb9eaff1fd55d943d2a3/w/8976d83a889d159a1f08a7bd/e/cf5443223244322f256cbf86">OnShape</a>
 </p>
 
-<img align="center" src="https://github.com/user-attachments/assets/9a9247be-9995-4a3f-b562-b239985dfb1e" alt="Apex Banner" width="1000"/>
-
-
 
 Apex is a custom usb hub PCB built around the Seeed FE1.1S, packing 1 upstream usb-c port, 2 downstream usb-a port.
+Built because most usb hub don't let you own what's inside. Apex is made to be reproducible.
 
-Built because most usb hub don't let you own what's inside. Apex is designed from scratch to let you truly own your hub
-
-To build your own, grab the KiCad files, review the schematic below, and send the design to your preferred PCBA fab and you are good to go!
-
-Every usb hub on the market is a black box. Apex exists to change that.
-
-## Key Features
-- **FE1.1s USB 2.0 hub controller** for reliable multi-device connectivity  
-- **1× USB-C upstream port** for host connection  
-- **2× USB-A downstream ports** for peripherals  
-- **Integrated power handling** with support for stable USB distribution
 
 ## PCB
 
 Designed in KiCad with attention to power management, and equal traces. The board features a 2-layer optimized routing.
 
 ### Schematic
-<img width="1291" height="692" alt="image" src="https://github.com/user-attachments/assets/a5252c18-9ecf-4a77-987d-72c6fcca7658" />
+<img width="1155" height="800" alt="image" src="https://github.com/user-attachments/assets/6af25572-4d10-4926-8ce1-afaa9855f26e" />
+
 
 
 ---
@@ -53,11 +40,13 @@ Designed in KiCad with attention to power management, and equal traces. The boar
 ### PCB Layers
 
 #### Layer 1
-<img width="1036" height="709" alt="image" src="https://github.com/user-attachments/assets/c471d225-5b65-4bef-8069-228621e8d01f" />
+<img width="703" height="731" alt="image" src="https://github.com/user-attachments/assets/501c200f-f2ac-4257-a735-257e996122a8" />
+
 
 
 #### Layer 2
-<img width="1036" height="709" alt="image" src="https://github.com/user-attachments/assets/daf0d759-6dc1-4a22-bb33-85acda13f371" />
+<img width="703" height="731" alt="image" src="https://github.com/user-attachments/assets/f6a8f548-03a5-4565-b9f5-9ef491293238" />
+
 
 
 ---
@@ -65,19 +54,24 @@ Designed in KiCad with attention to power management, and equal traces. The boar
 ### Board Views
 
 #### Front
-<img width="917" height="648" alt="image" src="https://github.com/user-attachments/assets/ecf13f89-caab-4419-9ec7-5725196c09d8" />
+<img width="1006" height="864" alt="image" src="https://github.com/user-attachments/assets/3fc20119-a245-428f-b574-4fd4e99118f6" />
+
 
 
 #### Back
-<img width="876" height="684" alt="image" src="https://github.com/user-attachments/assets/1b86b163-fadd-4f90-963b-0da19987bc31" />
+<img width="1006" height="864" alt="image" src="https://github.com/user-attachments/assets/0d8dbb3a-54a2-4798-9f6d-3710a7996a21" />
+
 
 
 ### Zine
-![APEX](https://github.com/user-attachments/assets/1ed5f189-ad10-4c2a-9c13-5d32f3aba3e9)
+<img width="1587" height="2245" alt="apex" src="https://github.com/user-attachments/assets/35d92789-d14b-407b-8623-7daf81d8d677" />
+
+
 
 
 
 ## Credits
+
 
 This project uses:
 - [KiCad](https://www.kicad.org/)
