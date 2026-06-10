@@ -1,0 +1,13 @@
+2026-05-21 10:03:34,645 - panelizer_logger - WARNING - Version check failed. "10.0.0" may not be supported. Panelizing may fail
+2026-05-21 10:03:42,360 - panelizer_logger - WARNING - 
+START: 2026-05-21T10:03:34.650073
+Board saved by user.
+Zones filled by Panelizer.
+
+Board: /home/cloudglides/apex/hardware/Production/apex_panelized.kicad_pcb
+Board dimensions: 43.11 x 46.58 mm.
+You can fit 2 x 1 boards on the panel.
+Zones refilled by Panelizer.
+Warning: panel is under 70x70mm. It may be too small to v-score.
+Warning: Ordering Instructions contains default values.
+

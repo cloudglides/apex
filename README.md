@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/b8898aad-9ebd-474a-bb14-d65388ac36dd" alt="Apex" width="200">
 
   <br>
-  Arcane
+  Apex
   <br>
 </h1>
 <h4 align="center">
@@ -19,7 +19,7 @@ A hub worth looking at.
   <a href="#key-features">Key Features</a> •
   <a href="#pcb">PCB</a> •
   <a href="#credits">Credits</a> •
-  <a href="https://cad.onshape.com/documents/937026c9c7729d1b873452d7/w/1c60bd9ad0571870f17da47d/e/4d08bbf2d72518b5e82a96e4?renderMode=0&uiState=69d95b8a9e333334b666e8f5">OnShape</a>
+  <a href="https://cad.onshape.com/documents/b957cb9eaff1fd55d943d2a3/w/8976d83a889d159a1f08a7bd/e/cf5443223244322f256cbf86">OnShape</a>
 </p>
 
 <img align="center" src="https://github.com/user-attachments/assets/9a9247be-9995-4a3f-b562-b239985dfb1e" alt="Apex Banner" width="1000"/>
