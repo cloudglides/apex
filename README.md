@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/4edd60da-c00a-49ae-be71-482fc72f05ac" alt="Apex" width="200">
+  <img src="https://github.com/user-attachments/assets/87af26df-9b0e-4e92-9766-34e8220c9437" alt="Apex" width="200">
 
 
   <br>
@@ -64,7 +64,8 @@ Designed in KiCad with attention to power management, and equal traces. The boar
 
 
 ### Zine
-<img width="1587" height="2245" alt="apex" src="https://github.com/user-attachments/assets/35d92789-d14b-407b-8623-7daf81d8d677" />
+<img width="1587" height="2245" alt="hgvjvj (2)" src="https://github.com/user-attachments/assets/cab20e21-4650-4093-b560-558b3faf2300" />
+
 
 
 
