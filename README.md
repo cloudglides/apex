@@ -30,6 +30,19 @@ Built because most usb hub don't let you own what's inside. Apex is made to be r
 
 Designed in KiCad with attention to power management, and equal traces. The board features a 2-layer optimized routing.
 
+## How To build it?
+
+Pretty simple actually, source all the components in BOM and assemble the pcb 
+(the project uses smd components so get a pcba if you dont got prior experience)
+
+## Why i made it?
+
+- i wanted to make something
+- i had nothing else to make
+- i dont got a usb hub either and i really need it
+
+
+
 ### Schematic
 <img width="1155" height="800" alt="image" src="https://github.com/user-attachments/assets/6af25572-4d10-4926-8ce1-afaa9855f26e" />
 
